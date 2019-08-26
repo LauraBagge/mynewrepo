@@ -1,4 +1,4 @@
-
+I love :shrimp: but not for eating
 # mynewrepo
 # this is a descriptive paragraph about my new repo
 ## **this text will be bold**
